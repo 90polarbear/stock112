@@ -849,7 +849,7 @@ def fin_books():
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://imgur.com/hUWBRhe.jpg",
+                        "url": "https://raw.githubusercontent.com/90polarbear/stock112/main/img/羅斯柴爾德.jpg",
                         "aspectMode": "fit",
                         "aspectRatio": "320:213",
                         "size": "full",
@@ -927,7 +927,7 @@ def fin_books():
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://imgur.com/hUWBRhe.jpg",
+                        "url": "https://raw.githubusercontent.com/90polarbear/stock112/main/img/經濟評論家父親給兒子的一封信.jpg",
                         "size": "full",
                         "aspectMode": "fit",
                         "aspectRatio": "320:213",
@@ -1005,7 +1005,7 @@ def fin_books():
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://imgur.com/hUWBRhe.jpg",
+                        "url": "https://raw.githubusercontent.com/90polarbear/stock112/main/img/全面交易3.0.jpg",
                         "size": "full",
                         "aspectMode": "fit",
                         "aspectRatio": "320:213",
